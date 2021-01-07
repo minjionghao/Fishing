@@ -9,7 +9,7 @@ public enum ProtoType
     {
         TcpLuaProto = 1,
         TcpCsProto = 2,
-        KcpLuaProto = 3,
+        KcpLuaProto = 3, 
     }
     
     public class ProtocolFactory
